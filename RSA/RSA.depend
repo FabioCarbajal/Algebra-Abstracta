@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1510947838 source:c:\users\alumno-d\desktop\rsa\main.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	<cstdlib>
+
